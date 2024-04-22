@@ -6,7 +6,6 @@
 body { font-family: Arial, Helvetica, sans-serif;
 background-color: #d9d5f1;
 margin-left: 35%;
-      margin-top:15%;
 }
 .contacts{
 margin-top: 225px;
@@ -146,8 +145,8 @@ height: 50px;
 
 <div class="contacts">
 <span class="contacts1">Контакты <img src="https://cdn-icons-png.flaticon.com/512/900/900782.png" height="15px"></span> <br><br>
-<span class="contacts2"><img src="https://e7.pngegg.com/pngimages/231/596/png-clipart-computer-icons-mobile-phones-telephone-call-text-telephone-call.png" height="15px"> +79092804078</span>  <br><br>
-<span class="contacts2"><img src="https://w7.pngwing.com/pngs/841/675/png-transparent-computer-icons-google-play-google.png" height=15px> utyugov.vlad@gmail.com</span>  <br><br>
+<span class="contacts2"><img src="https://e7.pngegg.com/pngimages/231/596/png-clipart-computer-icons-mobile-phones-telephone-call-text-telephone-call.png" height="15px"> +79092804078</span>  <br>
+<span class="contacts2"><img src="https://w7.pngwing.com/pngs/841/675/png-transparent-computer-icons-google-play-google.png" height=15px> utyugov.vlad@gmail.com</span>  <br>
 <span class="contacts2"> <img src="https://e7.pngegg.com/pngimages/723/450/png-clipart-computer-icons-map-pin-map-flag-pin.png" height="15px"> г.Ярославль</span>  
 </div>
 <div class="myself">
@@ -190,9 +189,9 @@ height: 50px;
 Красный диплом</p>
   </div>
   <div class="skill">
-    <span><img src="https://c0.klipartz.com/pngpicture/339/1014/gratis-png-computacion-iconos-conocimiento-habilidad-reclutamiento-mente.png" height="40px"><span class=skill2> Навыки</span></span><br><br>
-    <span class="skill1">Python </span><br><br>
-    <span class="skill1">C++</span><br><br>
+    <span><img src="https://c0.klipartz.com/pngpicture/339/1014/gratis-png-computacion-iconos-conocimiento-habilidad-reclutamiento-mente.png" height="40px"><span class=skill2> Навыки</span></span><br>
+    <span class="skill1">Python </span><br>
+    <span class="skill1">C++</span><br>
     <span class="skill1">WEB-Дизайн</span>
   </div>
   <div class=code>
