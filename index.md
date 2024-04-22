@@ -2,6 +2,7 @@
 
 <html>
   <head>
+    <meta charset="utf-8">
 <style type="text/css">
 body { font-family: Arial, Helvetica, sans-serif;
 background-color: #d9d5f1;
