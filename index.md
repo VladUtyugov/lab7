@@ -35,7 +35,7 @@ width: 200px;
   margin-left: 60px;
 }
 .myself2{
-font-size: 14px;
+font-size: 16px;
 margin-left: 10px;
 margin-right: 10px;
 text-align: justify;
@@ -129,7 +129,7 @@ ul{
 }
 .img1{
   margin-left:150px ;
-margin-top: -35px;
+margin-top: -40px;
 height: 50px;
 }
 .kartinka{
@@ -208,7 +208,7 @@ height: 50px;
 
   </div>
   <div class=kartinka>
-    <img src="https://masterpiecer-images.s3.yandex.net/3d589afa91ac11ee922a7a2f0d1382ba:upscaled" height="175px" width="200px">
+    <img src="lab7/me2.jpg" height="175px" width="200px">
     </div>
 
 </html>
