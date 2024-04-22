@@ -196,8 +196,8 @@ height: 50px;
   </div>
   <div class=code>
     <span>Изучаемые языки программирования </span>
-    <p class="img1">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rU3lr5-GoTCmAZc3ztCVXCnxmUFJb-SHseL6T5-UWw&s" height="40px"></p>
+    <span class="img1">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rU3lr5-GoTCmAZc3ztCVXCnxmUFJb-SHseL6T5-UWw&s" height="40px"></span>
     <ul>
     <li>C++</li>
     <li>SQL</li>
@@ -208,7 +208,7 @@ height: 50px;
 
   </div>
   <div class=kartinka>
-    <img src="lab7/me.jpg" height="175px" width="200px">
+    <img src="Lab7/me.jpg" height="175px" width="200px">
     </div>
 
 </html>
