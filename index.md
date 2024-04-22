@@ -35,7 +35,7 @@ width: 200px;
   margin-left: 60px;
 }
 .myself2{
-font-size: 16px;
+font-size: 15px;
 margin-left: 10px;
 margin-right: 10px;
 text-align: justify;
@@ -208,7 +208,7 @@ height: 50px;
 
   </div>
   <div class=kartinka>
-    <img src="lab7/me2.jpg" height="175px" width="200px">
+    <img src="lab7/me.jpg" height="175px" width="200px">
     </div>
 
 </html>
