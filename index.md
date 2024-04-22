@@ -35,7 +35,7 @@ width: 200px;
   margin-left: 60px;
 }
 .myself2{
-font-size: 18px;
+font-size: 14px;
 margin-left: 10px;
 margin-right: 10px;
 text-align: justify;
@@ -189,7 +189,7 @@ height: 50px;
 Красный диплом</p>
   </div>
   <div class="skill">
-    <span><img src="https://c0.klipartz.com/pngpicture/339/1014/gratis-png-computacion-iconos-conocimiento-habilidad-reclutamiento-mente.png" height="40px"><span class=skill2> Навыки</span></span><br>
+    <span><img src="https://c0.klipartz.com/pngpicture/339/1014/gratis-png-computacion-iconos-conocimiento-habilidad-reclutamiento-mente.png" height="40px"><span class=skill2> Навыки</span></span>
     <span class="skill1">Python </span><br>
     <span class="skill1">C++</span><br>
     <span class="skill1">WEB-Дизайн</span>
