@@ -192,7 +192,7 @@ height: 50px;
     <span><img src="https://c0.klipartz.com/pngpicture/339/1014/gratis-png-computacion-iconos-conocimiento-habilidad-reclutamiento-mente.png" height="40px"><span class=skill2> Навыки</span></span><br><br>
     <span class="skill1">Python </span><br><br>
     <span class="skill1">C++</span><br><br>
-    <span class="skill1">WEB-Äèçàéí</span>
+    <span class="skill1">WEB-Дизайн</span>
   </div>
   <div class=code>
     <span>Изучаемые языки программирования </span>
