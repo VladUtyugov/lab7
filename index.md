@@ -6,7 +6,7 @@
 body { font-family: Arial, Helvetica, sans-serif;
 background-color: #d9d5f1;
 margin-left: 35%;
-      margin-top:10%;
+      margin-top:15%;
 }
 .contacts{
 margin-top: 225px;
