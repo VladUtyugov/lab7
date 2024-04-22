@@ -208,7 +208,7 @@ height: 50px;
 
   </div>
   <div class=kartinka>
-    <img src="Lab7/me.jpg" height="175px" width="200px">
+    <img src="me.jpg" height="175px" width="200px">
     </div>
 
 </html>
